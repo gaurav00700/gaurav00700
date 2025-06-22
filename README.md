@@ -70,7 +70,7 @@ I’m a passionate engineer blending **AI research** and **real-world deployment
 
 - 🎓 **M.Eng. in Artificial Intelligence for Smart Sensors**  
   Technische Hochschule Deggendorf, Germany  
-  *Thesis: 1.0 grade, GPA: 1.7/4.0*
+  *GPA: 1.7/4.0, Thesis: 1.0 grade*
 
 - 🎓 **B.Tech in Industrial Engineering**  
   Maulana Azad National Institute of Technology (MANIT), India  
