@@ -14,9 +14,9 @@
 
 I’m a passionate engineer blending **AI research** and **real-world deployment**. I craft ML systems with a focus on:
 
-- ⚙️ **End-to-End ML Ops** – model training → containerization → CI/CD → deployment on Kubernetes  
 - 🧬 **Generative AI** – RAG, Diffusion Models, LLM fine-tuning using PEFT (LoRA/QLoRA)
 - 🔭 **Computer Vision & Perception** – object detection, 3D reconstruction, sensor fusion  
+- ⚙️ **End-to-End ML Ops** – model training → containerization → CI/CD → deployment on Kubernetes  
 
 > 🎓 Master’s in AI from **TH Deggendorf**, Germany.  
 > 🧪 Previously at **CARIAD (Volkswagen)**, **AVL**, **Mercedes-Benz**, **Applied Materials** and **Tata**.
