@@ -5,7 +5,7 @@
 <p align="center">
   🧠 Machine Learning Engineer | 🤖 GenAI Explorer | 🇩🇪 Based in Nürnberg, Germany  
   <br>
-  🚀 Turning ideas into intelligent, scalable ML products
+  🚀 Solving problems through intelligent and scalable ML solutions
 </p>
 
 ---
