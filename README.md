@@ -32,8 +32,8 @@ I’m a passionate engineer blending **AI research** and **real-world deployment
 | `Deployment`       | Docker, Kubernetes, Argo CD, GitHub Actions, FastAPI, Streamlit |
 | `Monitoring`       | MLflow, Tensorboard, Wandb |
 | `Languages`        | Python 🐍, C++ 💻 |
-| `Robotics`         | ROS, LiDAR, rviz |
-| `Cloud & Infra`    | AWS ☁️, Git, CI/CD pipelines |
+| `Robotics`         | LiDAR, Camera, ROS, rviz |
+| `Cloud & Infra`    | AWS ☁️, Git, CI/CD tools |
 | `Collab & Docs`    | JIRA, Confluence, PyTest |
 
 ---
