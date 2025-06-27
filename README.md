@@ -39,7 +39,7 @@ I’m a passionate engineer blending **AI research** and **real-world deployment
 ---
 
 ### 🏅 Publications
-- 📖 **[Self-Supervised Multimodal NeRF for Autonomous Driving](https://arxiv.org/abs/2506.19615)**  
+- 📖 **[Self-Supervised Multimodal NeRF for Autonomous Driving](https://gaurav00700.github.io/ProjectPage-Selfsupervised-NVSF/)**  
   Published at IEEE IVS 2025
 
 ---
