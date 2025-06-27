@@ -1,6 +1,6 @@
 <!-- Profile README for Gaurav Sharma -->
 
-<h1 align="center">Hi there 👋, I'm Gaurav Sharma</h1>
+<h1 align="center">Gaurav Sharma</h1>
 
 <p align="center">
   🧠 Machine Learning Engineer | 🤖 GenAI Explorer | 🇩🇪 Based in Nürnberg, Germany  
