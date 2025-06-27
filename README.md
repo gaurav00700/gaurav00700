@@ -38,25 +38,6 @@ I’m a passionate engineer blending **AI research** and **real-world deployment
 
 ---
 
-### 🌟 Highlight Projects
-
-#### 🧠 [Multimodal NeRF for Autonomous Driving](https://gaurav00700.github.io/ProjectPage-Selfsupervised-NVSF/)
-> IEEE IVS 2025 🎓  
-> 🔧 Scene synthesis using self-supervised multimodal NeRF (LiDAR + Camera)  
-> 💡 Achieved 42% boost in dynamic scene reconstruction & reduced Sim2Real gap by 14%
-
-#### ⚡ Anomaly Detection for Safety Functions (CARIAD, VW)
-> 🔍 Object detection on grayscale + depth estimation  
-> 📊 YOLO & MMDetection model pipeline with 16% performance boost  
-> 🌐 Visualized results with a custom dashboard tool
-
-#### 🤖 LLM-Powered Chatbot for Sensor Suggestions
-> 📘 RAG architecture using Langchain + vLLM + FastAPI  
-> 🎯 Custom fine-tuning with LoRA/QLoRA on proprietary specs  
-> 📦 Fully containerized & deployed on Kubernetes with Argo CD
-
----
-
 ### 🏅 Publications
 - 📖 **[Self-Supervised Multimodal NeRF for Autonomous Driving](https://arxiv.org/abs/2506.19615)**  
   Published at IEEE IVS 2025
